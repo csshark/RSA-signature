@@ -48,7 +48,7 @@ source file stays in place and can still be used.
 Program w Pythonie, wykorzystujący biblioteki kryptograficzne do podpisu
 elektronicznego i jego weryfikacji z interfejsem graficznym. 2023
 
-Autorzy: Robert Strzoda (https://github.com/JustTypin)
+Autor: Robert Strzoda (https://github.com/JustTypin)
 
 OPIS FUNKCJONALNOŚCI:
 
