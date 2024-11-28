@@ -6,7 +6,7 @@
 A program in Python, using cryptographic libraries for electronic signature
 electronic signature and its verification with a graphical interface. 2023
 
-Author Robert Strzoda (https://github.com/JustTypin)
+Author Robert Strzoda (https://github.com/csshark)
 
 
 DESCRIPTION OF FUNCTIONALITY:
@@ -48,7 +48,7 @@ source file stays in place and can still be used.
 Program w Pythonie, wykorzystujący biblioteki kryptograficzne do podpisu
 elektronicznego i jego weryfikacji z interfejsem graficznym. 2023
 
-Autor: Robert Strzoda (https://github.com/JustTypin)
+Autor: Robert Strzoda (https://github.com/csshark)
 
 OPIS FUNKCJONALNOŚCI:
 
